@@ -447,7 +447,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search the Capawesome docs and blog; an API token adds the Capawesome Cloud management tools.
 - [Ceraph](https://ceraph.dev) `https://mcp.ceraph.dev/mcp`
   [![Ceraph MCP connector](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.ceraph.mcp/ceraph-react-native-mcp)
-  🔐 - Let your coding agent drive and test React Native and Expo apps on your computer's iOS and Android devices.
+  🔐 - Let your coding agent test React Native and Expo apps end-to-end on iOS and Android devices, simulators and emulators.
 - [Cherry Notes](https://cherrynotes.app) `https://api.cherrynotes.app/mcp`
   [![Cherry Notes MCP connector](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes/badges/score.svg)](https://glama.ai/mcp/connectors/app.cherrynotes/cherry-notes)
   🔐 - Capture features, ideas and tasks on your phone; your AI coding agent picks them up and ships them.
